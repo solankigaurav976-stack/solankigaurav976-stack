@@ -12,6 +12,18 @@ I turn data into clear insights that support better business decisions. My proje
 - **Development:** Visual Studio Code, Git, GitHub
 - **Business Analysis:** Requirements Analysis, Process Mapping, Stakeholder Analysis
 
+ ### 🧰 Tools & Technologies
+
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+![VS Code](https://img.shields.io/badge/VS%20Code-Development-blue)
+
 ### 📊 Featured Project
 
 #### E-Commerce Sales Analysis
