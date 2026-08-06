@@ -38,6 +38,24 @@ End-to-end analysis of an e-commerce dataset using **PostgreSQL, SQL and Power B
 
 👉 [View the E-Commerce Sales Analysis](https://github.com/solankigaurav976-stack/E-Commerce-Sales-Analysis)
 
+### 👥 Customer Churn Analysis
+
+End-to-end customer churn analysis using **SQL, Python and Power BI** to identify customer behaviour and factors associated with customer attrition.
+
+- Analysed customer churn patterns and retention rates
+
+- Identified key factors associated with customer churn
+
+- Segmented customers based on behaviour and characteristics
+
+- Used SQL to clean, transform and analyse customer data
+
+- Used Python for exploratory data analysis and deeper customer insights
+
+- Built an interactive Power BI dashboard to visualise churn trends and key findings
+
+👉 [View the Customer Churn Analysis](https://github.com/solankigaurav976-stack/Customer-Churn-Analysis)
+
 ### 🚀 Currently Developing
 
 - Advanced SQL & PostgreSQL
