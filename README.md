@@ -24,7 +24,7 @@ I turn data into clear insights that support better business decisions. My proje
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Development-blue)
 
-### 📊 Featured Project
+### 📊 Featured Projects
 
 #### E-Commerce Sales Analysis
 End-to-end analysis of an e-commerce dataset using **PostgreSQL, SQL and Power BI**.
