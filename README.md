@@ -86,4 +86,5 @@ An end-to-end Supply Chain & Operations BI solution built using SQL and Power BI
 
 ### 🤝 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/gaurav-solanki-analyst)
+🔗 [LinkedIn](https://www.linkedin.com/in/gaurav-solanki-analyst)
+🌐 [Portfolio](https://solankigaurav976-stack.github.io/gaurav-portfolio/)
