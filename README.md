@@ -56,6 +56,22 @@ End-to-end customer churn analysis using **SQL, Python and Power BI** to identif
 
 👉 [View the Customer Churn Analysis](https://github.com/solankigaurav976-stack/Customer-Churn-Analysis)
 
+### 🚚 Supply Chain & Operations Business Intelligence System
+
+An end-to-end Supply Chain & Operations BI solution built using SQL and Power BI to analyse inventory performance, stock levels, reorder requirements, products at risk, warehouse performance and supplier performance.
+
+**Key areas:**
+- 📦 Inventory & stock analysis
+- ⚠️ Products and inventory value at risk
+- 🔄 Reorder-level analysis
+- 🏭 Warehouse & supplier analysis
+- 📊 Interactive Power BI dashboard
+- 🗂️ Fact & dimension data modelling
+
+**Tech:** SQL • PostgreSQL • Power BI • Data Modelling • Data Analysis
+
+🔗 **[View Project on GitHub](https://github.com/solankigaurav976-stack/Supply-Chain-Operations-BI)**
+
 ### 🚀 Currently Developing
 
 - Advanced SQL & PostgreSQL
