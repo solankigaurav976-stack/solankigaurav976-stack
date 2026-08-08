@@ -17,15 +17,17 @@ I turn data into clear insights that support better business decisions. My proje
 
  ### 🧰 Tools & Technologies
 
-![SQL](https://img.shields.io/badge/SQL-Database-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
-![VS Code](https://img.shields.io/badge/VS%20Code-Development-blue)
+[![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi&logoColor=white)](https://www.microsoft.com/power-platform/products/power-bi)
+[![DAX](https://img.shields.io/badge/DAX-Power%20BI-yellow?logo=powerbi&logoColor=white)](https://learn.microsoft.com/dax/)
+[![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-yellow?logo=powerbi&logoColor=white)](https://learn.microsoft.com/power-query/)
+[![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green?logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange?logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-Development-blue?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 ### 📊 Featured Projects
 
