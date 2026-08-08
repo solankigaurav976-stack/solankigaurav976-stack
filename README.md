@@ -70,7 +70,7 @@ An end-to-end Supply Chain & Operations BI solution built using SQL and Power BI
 
 **Tech:** SQL • PostgreSQL • Power BI • Data Modelling • Data Analysis
 
-🔗 **[View Project on GitHub](https://github.com/solankigaurav976-stack/Supply-Chain-Operations-BI)**
+👉 **[View Project on GitHub](https://github.com/solankigaurav976-stack/Supply-Chain-Operations-BI)**
 
 ### 🚀 Currently Developing
 
