@@ -6,10 +6,14 @@ I turn data into clear insights that support better business decisions. My proje
 
 ### 🛠️ Technical Skills
 
+## 🛠️ Technical Skills
+
 - **Data Analysis:** SQL, PostgreSQL, Excel, Python
+- **Business Intelligence:** Power BI, DAX, Power Query
 - **Data Visualisation:** Power BI, Tableau
+- **Data Modelling:** Fact & Dimension Modelling, Star Schema
 - **Database Tools:** PostgreSQL, pgAdmin 4
-- **Development:** Visual Studio Code, Git, GitHub
+- **Development & Version Control:** VS Code, Git, GitHub
 - **Business Analysis:** Requirements Analysis, Process Mapping, Stakeholder Analysis
 
  ### 🧰 Tools & Technologies
