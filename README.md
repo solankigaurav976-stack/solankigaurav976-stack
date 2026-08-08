@@ -4,7 +4,6 @@
 
 I turn data into clear insights that support better business decisions. My projects combine data analysis, business thinking and visualisation to identify trends, customer behaviour and opportunities for improvement.
 
-### 🛠️ Technical Skills
 
 ## 🛠️ Technical Skills
 
