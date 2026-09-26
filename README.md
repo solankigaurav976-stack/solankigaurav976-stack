@@ -78,7 +78,7 @@ An end-to-end Supply Chain & Operations BI solution built using SQL and Power BI
 👉 **[View Project on GitHub](https://github.com/solankigaurav976-stack/Supply-Chain-Operations-BI)**
 
 
-**🚆 UK Rail Operations Performance Analysis**
+## 🚆 UK Rail Operations Performance Analysis
 
 End-to-end UK rail operations analysis using PostgreSQL and SQL to analyse train cancellations, operator performance, cancellation causes and performance variation across reporting periods.
 
