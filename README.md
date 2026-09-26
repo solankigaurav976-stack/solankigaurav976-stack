@@ -77,6 +77,25 @@ An end-to-end Supply Chain & Operations BI solution built using SQL and Power BI
 
 👉 **[View Project on GitHub](https://github.com/solankigaurav976-stack/Supply-Chain-Operations-BI)**
 
+🚆 UK Rail Operations Performance Analysis
+
+End-to-end UK rail operations analysis using PostgreSQL and SQL to analyse train cancellations, operator performance, cancellation causes and performance variation across reporting periods.
+
+Key areas:
+
+- 🚆 Operator-level cancellation performance
+- 📊 Cancellation rate and cancellation-score analysis
+- 🛠️ Cancellation responsibility analysis
+- 📅 Reporting-period trend analysis
+- 📈 Operator consistency and performance variation
+- 🔍 Data quality and validation checks
+- 🧮 SQL window functions including LAG() and RANK()
+- 🗄️ PostgreSQL data cleaning, transformation and analysis
+
+Tech: PostgreSQL • SQL • pgAdmin 4 • GitHub • ORR Open Data
+
+👉 [View UK Rail Operations Performance Analysis on GitHub](https://github.com/solankigaurav976-stack/uk-rail-operations-sql-analysis)
+
 ### 🚀 Currently Developing
 
 - Advanced SQL & PostgreSQL
