@@ -29,6 +29,9 @@ I turn data into clear insights that support better business decisions. My proje
 [![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-Development-blue?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+
+[![Excel VBA](https://img.shields.io/badge/Excel-VBA%20Automation-217346?logo=microsoft-excel&logoColor=white)](https://learn.microsoft.com/en-us/office/vba/api/overview/excel)
 
 ### 📊 Featured Projects
 
