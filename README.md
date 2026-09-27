@@ -97,6 +97,25 @@ Tech: PostgreSQL • SQL • pgAdmin 4 • GitHub • ORR Open Data
 
 👉 [View UK Rail Operations Performance Analysis on GitHub](https://github.com/solankigaurav976-stack/uk-rail-operations-sql-analysis)
 
+
+## 🚗 Fleet Fuel & Efficiency Analysis — Excel VBA
+
+An end-to-end fleet fuel and efficiency analysis project built in Microsoft Excel, combining data cleaning, validation, KPI analysis, dashboard development and VBA automation.
+
+### Key areas:
+- Analysed fleet fuel consumption and distance travelled
+- Identified vehicles with high estimated fuel costs
+- Identified vehicles with lower MPG
+- Calculated fleet-level fuel efficiency KPIs
+- Estimated fuel expenditure using UK average diesel prices
+- Performed data-quality validation and exception handling
+- Built an interactive Excel management dashboard
+- Automated dashboard refresh using VBA
+
+**Tech:** Microsoft Excel • Excel VBA • Data Cleaning • KPI Analysis • Data Visualisation • Dashboard Development
+
+👉 [View Fleet Fuel & Efficiency Analysis on GitHub](https://github.com/solankigaurav976-stack/fleet-fuel-efficiency-vba-analysis)
+
 ### 🚀 Currently Developing
 
 - Advanced SQL & PostgreSQL
